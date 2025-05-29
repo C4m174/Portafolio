@@ -7,38 +7,10 @@
 
 ## 🚀 **Proyectos Destacados**  
 
-### 1.  GPTDevs - Sistema de Gestión de Proyectos con IA   
-   **Desarrollado por:** GPTDevs  
-**Fecha:** Febrero 2024  
-**Repositorio:** [GitHub](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs)  
-
----
-
-## 📌 Descripción  
-Sistema web para gestión de proyectos académicos con integración de IA (OpenAI), desarrollado como parte del curso *SI729 - UPC*. Incluye:  
-- Autenticación de usuarios.  
-- Generación de informes automáticos con GPT.  
-- Visualización de métricas en tiempo real.  
-
----
-
-## 🛠 Tecnologías  
-| **Frontend**       | **Backend**      | **Base de Datos** | **Herramientas**      |  
-|--------------------|------------------|-------------------|-----------------------|  
-| React, TailwindCSS | Node.js, Express | MongoDB           | Git, Docker, Figma    |  
-
----
-
-## **Demo**: [Enlace Pages](https://tasklinker.netlify.app/login) 
-
----
-
-## 🔥 Features Destacados  
-- ✨ **Generación de informes con IA**: Prompt engineering para resultados personalizados.  
-- 📊 **Gráficos interactivos**: Usando Chart.js.  
-- 🔐 **JWT Auth**: Seguridad con tokens.  
-
----
+### 1. TaskLinker [(enlace-al-repositorio) ](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs) 
+   - **Tecnologías**: HTML5, CSS, JavaScript, React.  
+   - **Descripción**: Plataforma web que facilita la conexión entre personas que buscan ingresos adicionales laborando por horas y quienes requieren contratar servicios temporales o para tareas específicas 
+   - **Demo**: [TaskLinker](https://tasklinker.netlify.app/login) 
 
 
 ## 🛠 **Habilidades Técnicas**  
